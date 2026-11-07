@@ -1,6 +1,6 @@
-// Matheus Gabriel Viana Araujo - 10420444
-// Lucas Akio Funada Tsukamoto - 10425346
-// Fellipe Jardanovski - 10395847
+// Matheus Gabriel Viana Araujo
+// Lucas Akio Funada Tsukamoto
+// Fellipe Jardanovski
 
 /*
     Nesse código em C++, há uma classe chamada MulMatrix que possui
